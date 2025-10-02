@@ -1,0 +1,5 @@
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+email_user: "kelvinnwachukwu89@gmail.com"
+email_pass: "ginx tkec jqnt ijdi"
+alert_recipient: "nwachukwu89@gmail.com"
